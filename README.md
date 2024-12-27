@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I am Niels Van Put, here are some facts about me.
+
+- I am studying the Master of Science in Computer Science Engineering at Ugent university
+- I am an entrepreneur with my business Put IT Clearly
+- I'm always looking for new challenges!
 <!--
 **Nvanput/Nvanput** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
